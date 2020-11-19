@@ -19,6 +19,8 @@
   "homepage": "https://github.com/TJblue94/ONOFF_BudgetTracker#readme",
   "dependencies": {
     "compression": "^1.7.4",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.15",
     "nodemon": "^2.0.6"
   }
 }
